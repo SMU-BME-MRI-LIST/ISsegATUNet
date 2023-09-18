@@ -14,7 +14,7 @@ The code has been only tested in the environment as following
 # Reference
 Zifeng Lian, Qiqi Lu, Bingquan Lin, Chen Lingjian, Peng Peng, Yanqiu Feng.
 **"Deep learning-based automatic segmentation of interventricular septum for black-blood myocardial T2star measurement in thalassemia."**
-(submission)
+(Revision)
 
 # License
 See [LICENSE](LICENSE)
